@@ -1,0 +1,20 @@
+{
+  "name": "app_practct1",
+  "version": "1.0.0",
+  "description": "It is my first webserver creation in the backend using node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend",
+    "javascript",
+    "satya"
+  ],
+  "author": "Satyabrata Mohanty",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
